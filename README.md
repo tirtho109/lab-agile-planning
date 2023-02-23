@@ -4,3 +4,5 @@
 Made some changes.
 
 Now make some changes for git conflict.
+
+Not happening.
